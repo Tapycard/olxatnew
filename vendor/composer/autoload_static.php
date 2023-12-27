@@ -375,8 +375,8 @@ class ComposerStaticInit67a08c7c4791ecb5212c3953fecb6ca7
         ),
         'Vonage\\' => 
         array (
-            0 => __DIR__ . '/..' . '/vonage/jwt/src',
-            1 => __DIR__ . '/..' . '/vonage/client-core/src',
+            0 => __DIR__ . '/..' . '/vonage/client-core/src',
+            1 => __DIR__ . '/..' . '/vonage/jwt/src',
         ),
         'Vemcogroup\\SparkPostDriver\\' => 
         array (

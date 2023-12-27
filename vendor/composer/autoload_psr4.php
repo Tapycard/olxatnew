@@ -17,7 +17,7 @@ return array(
     'Webmozart\\Assert\\' => array($vendorDir . '/webmozart/assert/src'),
     'Watson\\' => array($vendorDir . '/watson/sitemap/src/Watson'),
     'Vonage\\NexmoBridge\\' => array($vendorDir . '/vonage/nexmo-bridge/src'),
-    'Vonage\\' => array($vendorDir . '/vonage/jwt/src', $vendorDir . '/vonage/client-core/src'),
+    'Vonage\\' => array($vendorDir . '/vonage/client-core/src', $vendorDir . '/vonage/jwt/src'),
     'Vemcogroup\\SparkPostDriver\\' => array($vendorDir . '/vemcogroup/laravel-sparkpost-driver/src'),
     'Twilio\\' => array($vendorDir . '/twilio/sdk/src/Twilio'),
     'TijsVerkoyen\\CssToInlineStyles\\' => array($vendorDir . '/tijsverkoyen/css-to-inline-styles/src'),

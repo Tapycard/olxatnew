@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'laraclassifier/laraclassifier',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'dbffa3a545ca5d12460d1d32f62b917d7d0e7ee3',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -20,9 +20,9 @@
             'dev_requirement' => false,
         ),
         'aws/aws-sdk-php' => array(
-            'pretty_version' => '3.295.0',
-            'version' => '3.295.0.0',
-            'reference' => '326eb6c26e2be9d896c4aeb025e20980c06779af',
+            'pretty_version' => '3.295.1',
+            'version' => '3.295.1.0',
+            'reference' => '31c69734d929510502b6401c01b593521efdcbc5',
             'type' => 'library',
             'install_path' => __DIR__ . '/../aws/aws-sdk-php',
             'aliases' => array(),
@@ -614,9 +614,9 @@
             'dev_requirement' => false,
         ),
         'laraclassifier/laraclassifier' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'dbffa3a545ca5d12460d1d32f62b917d7d0e7ee3',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -1215,8 +1215,8 @@
         'psr/http-factory-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '^1.1 || ^2.0',
-                1 => '1.0',
+                0 => '1.0',
+                1 => '^1.1 || ^2.0',
             ),
         ),
         'psr/http-message' => array(
@@ -1231,8 +1231,8 @@
         'psr/http-message-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '^1.1 || ^2.0',
-                1 => '1.0',
+                0 => '1.0',
+                1 => '^1.1 || ^2.0',
             ),
         ),
         'psr/log' => array(
